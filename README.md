@@ -102,6 +102,19 @@ pytest
 
 LISTING ALL THE CVE details.
 
+LISTING ALL THE CVE details.
+OUTPUTS:
+##one test case failed
+![image alt](https://github.com/manasikonidala/NVD-assesment/blob/335d9cafb5658f7e7dc9d8ef2eed7ea2767a6414/WhatsApp%20Image%202025-01-11%20at%2017.08.10%20(1).jpeg)
+##two test cases passed 
+![image alt](https://github.com/manasikonidala/NVD-assesment/blob/bafd726fb0ebed05c8130ecc0746a51e0d5d72c5/WhatsApp%20Image%202025-01-11%20at%2017.08.10.jpeg)
+##two test cases failed
+![image alt](https://github.com/manasikonidala/NVD-assesment/blob/5f3ffb89f0e3c2d616ef399ee0ff8086fcfd00d4/WhatsApp%20Image%202025-01-11%20at%2017.08.11%20(1).jpeg)
+##two cases passed
+![image alt](https://github.com/manasikonidala/NVD-assesment/blob/9414044c59a1b53c42097a42d25e1e2cb874f03d/WhatsApp%20Image%202025-01-11%20at%2017.08.12.jpeg)
+#display of cve data outputs
+![image alt](https://github.com/manasikonidala/NVD-assesment/blob/86d768a3c76f93dce1a2c7867bd022ac18d47ea8/WhatsApp%20Image%202025-01-11%20at%2017.08.27.jpeg)
+
 
 
 
