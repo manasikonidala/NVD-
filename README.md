@@ -25,7 +25,7 @@ project-folder/
 │   └── api/
 │       ├── cve_api.py         # Flask API endpoints for CVEs
 │       └── utils.py           # Utilities for fetching and syncing CVE data
-│
+│       |__sync_service.py
 ├── frontend/
 │   ├── index.html             # Main CVE list UI
 │   ├── cve_details.html       # CVE details UI
@@ -101,4 +101,7 @@ Copy code
 pytest
 
 LISTING ALL THE CVE details.
+
+
+
 
