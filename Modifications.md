@@ -2,6 +2,7 @@
 
 1)Modified backend/api/utils.py to include batch synchronization functionality.
     ->To run this synchronization,  a script is added to backend/sync_service.py
+
 2)Enhanced the existing API in backend/api/cve_api.py to support search and filter functionality.
 
 3)API_documentation.md file is incorporated
